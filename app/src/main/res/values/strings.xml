@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age In Minutes</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">10427040</string>
+    <string name="calculate">SELECT DATE</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="in_minutes1">in minutes</string>
+    <string name="in_minutes2">IN MINUTES</string>
+    <string name="_19_12_2002">19–12–2002</string>
+</resources>
